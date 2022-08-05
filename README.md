@@ -2,7 +2,7 @@
 no purpose
 
 ## usage
-either downlaod pre-built files or build the thing yourself with .net 6
+either downlaod pre-built files from releases or build the thing yourself with .net 6
 
 ## build
 requires .net 6.0 sdk
