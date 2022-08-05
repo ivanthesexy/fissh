@@ -3,7 +3,6 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <SelfContained>true</SelfContained>
     <DebugType>embedded</DebugType>
 	  <PublishSingleFile>true</PublishSingleFile>
 	  <PublishTrimmed>true</PublishTrimmed>
